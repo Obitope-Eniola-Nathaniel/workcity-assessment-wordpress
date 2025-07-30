@@ -3,7 +3,7 @@
  * Plugin Name: Client Project Manager
  * Description: Adds a Client Project custom post type with custom fields and a shortcode.
  * Version: 1.0
- * Author: Your Name
+ * Author: Obitope Eniola Nathaniel
  */
 
 // Register Custom Post Type
